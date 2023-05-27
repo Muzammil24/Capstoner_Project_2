@@ -16,4 +16,4 @@ This repository contains the following:
   2. Application folder contains the main file to run the program
   3.  Visualization folder contains Power BI file .pbix
   
-![Project Methodology](main/Project_Methodology.JPG)
+![Project Methodology](https://github.com/Muzammil24/Capstoner_Project_2/blob/main/Project_Methodology.JPG))
