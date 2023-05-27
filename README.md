@@ -16,5 +16,4 @@ This repository contains the following:
   2. Application folder contains the main file to run the program
   3.  Visualization folder contains Power BI file .pbix
   
-  
-  ![Project Methodology](https://github.com/Project_Methodology.jpg)
+![Project Methodology](/Project_Methodology.jpg)
